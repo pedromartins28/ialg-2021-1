@@ -1,0 +1,11 @@
+10
+Bulbasaur Planta 8
+Charmander Fogo 9
+Squirtle Agua 13
+Pikachu Eletrico 10
+Chikorita Planta 3
+Treecko Planta 4
+Cyndaquil Fogo 7
+Torchic Fogo 5
+Totodile Agua 6
+Mudkip Agua 11
